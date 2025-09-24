@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Hardhat artifacts
+backend-contracts/artifacts/
+backend-contracts/cache/
+
+# Next.js build
+frontend-dapp/.next/
+frontend-dapp/out/
+
+# Logs
+*.log
+
+# Env files (not needed here but safe)
+*.env

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "Sunset Apartments",
+    "location": "Bengaluru",
+    "pricePerShare": 10,
+    "totalShares": 1000,
+    "image": "/images/sunset.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Maple Tower",
+    "location": "Mumbai",
+    "pricePerShare": 15,
+    "totalShares": 800,
+    "image": "/images/maple.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ocean View",
+    "location": "Goa",
+    "pricePerShare": 20,
+    "totalShares": 500,
+    "image": "/images/ocean.jpg"
+  }
+]
